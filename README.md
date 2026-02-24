@@ -13,13 +13,8 @@ The app demonstrates layout layering, positioning, and Material 3 UI components.
 
 ---
 
-## Screenshots
-
-### Initial View
-![Profile Screen](profile1.png)
-
-### Alternate View
-![Profile Screen Modified](profile2.png)
+## Screenshot
+![Profile Screen](profile.jpg)
 
 ---
 
